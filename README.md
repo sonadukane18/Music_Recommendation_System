@@ -10,3 +10,7 @@ The recommendation system suggests songs to users based on their preferences and
 * `Content-Based Filtering:` Recommends songs to users based on the features of the songs, such as genre, artist, or lyrics.
 * `Jupyter Notebooks:` Implemented and documented in Jupyter Notebooks for easy understanding and reproducibility.
 * `Python Implementation:` Built using Python programming language, leveraging libraries such as scikit-learn for machine learning and pandas for data manipulation.
+
+* `collaborative_filtering.ipynb:` Jupyter Notebook containing the implementation of collaborative filtering recommendation.
+* `content_based_filtering.ipynb:` Jupyter Notebook containing the implementation of content-based filtering recommendation.
+* `dataset`: [Download from here]()
